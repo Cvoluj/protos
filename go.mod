@@ -1,4 +1,4 @@
-module protoc
+module github.com/Cvoluj/protos
 
 go 1.22.4
 
