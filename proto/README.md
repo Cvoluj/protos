@@ -1,0 +1,1 @@
+This is contract for my project, guided by [this video](https://www.youtube.com/watch?v=EURjTg5fw-E)
